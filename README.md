@@ -2,4 +2,4 @@
 
     - Analise dos primeiros unicornios
     - Analise da performace de estudantes
-    - Analise financeiro das ações da MagaLu
+    - Analise mercado financeiro das ações da MagaLu
